@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "РКИС ЛР 3", "РКИС ЛР 3\РКИС ЛР 3.csproj", "{E79E88CF-89BB-4E31-8BE2-E44C89521FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79E88CF-89BB-4E31-8BE2-E44C89521FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79E88CF-89BB-4E31-8BE2-E44C89521FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79E88CF-89BB-4E31-8BE2-E44C89521FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79E88CF-89BB-4E31-8BE2-E44C89521FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F37878B-0F01-450E-BB2E-3B4D1B11BABE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\bin\Debug\РКИС 12 ЛР.exe.config
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\bin\Debug\РКИС 12 ЛР.exe
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\bin\Debug\РКИС 12 ЛР.pdb
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР.csproj.AssemblyReference.cache
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\AuthorizationPage.g.cs
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\MainPage.g.cs
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\MainWindow.g.cs
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\App.g.cs
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР_MarkupCompile.cache
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР_MarkupCompile.lref
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\AuthorizationPage.baml
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\MainPage.baml
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\MainWindow.baml
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР.g.resources
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС_12_ЛР.Properties.Resources.resources
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР.csproj.GenerateResource.cache
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР.csproj.CoreCompileInputs.cache
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР.exe
+D:\Илья\Файлики\Коды\РКИС 12 ЛР\РКИС 12 ЛР\obj\Debug\РКИС 12 ЛР.pdb

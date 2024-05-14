@@ -1,0 +1,15 @@
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\bin\Debug\РКИС ЛР 11.exe.config
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\bin\Debug\РКИС ЛР 11.exe
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\bin\Debug\РКИС ЛР 11.pdb
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11.csproj.AssemblyReference.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\MainWindow.g.cs
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\App.g.cs
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11_MarkupCompile.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11_MarkupCompile.lref
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\MainWindow.baml
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11.g.resources
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС_ЛР_11.Properties.Resources.resources
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11.csproj.GenerateResource.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11.csproj.CoreCompileInputs.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11.exe
+D:\Илья\Файлики\Коды\РКИС ЛР 11\РКИС ЛР 11\obj\Debug\РКИС ЛР 11.pdb

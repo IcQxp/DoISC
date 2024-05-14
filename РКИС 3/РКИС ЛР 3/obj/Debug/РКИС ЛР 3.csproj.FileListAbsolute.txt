@@ -1,0 +1,10 @@
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\bin\Debug\РКИС ЛР 3.exe.config
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\bin\Debug\РКИС ЛР 3.exe
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\bin\Debug\РКИС ЛР 3.pdb
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС ЛР 3.csproj.AssemblyReference.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС_ЛР_3.Form1.resources
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС_ЛР_3.Properties.Resources.resources
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС ЛР 3.csproj.GenerateResource.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС ЛР 3.csproj.CoreCompileInputs.cache
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС ЛР 3.exe
+D:\Илья\Файлики\Коды\РКИС ЛР 3\РКИС ЛР 3\obj\Debug\РКИС ЛР 3.pdb
